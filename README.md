@@ -15,6 +15,8 @@
 - 语言：**[例如：Python / JavaScript / C++ 等]**
 - 框架 / 库：**[例如：PyTorch / React / Node.js / ROS 等]**
 - 其他：**[例如：Docker / MQTT / REST API 等]**
+- ![Assenbly](Assenbly.png)
+
 
 ### 适用场景
 
